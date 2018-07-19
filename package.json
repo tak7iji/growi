@@ -131,7 +131,7 @@
     "colors": "^1.2.5",
     "commander": "^2.11.0",
     "connect-browser-sync": "^2.1.0",
-    "css-loader": "^0.28.0",
+    "css-loader": "^0.28.8",
     "csv-to-markdown-table": "^0.4.0",
     "date-fns": "^1.29.0",
     "diff2html": "^2.3.3",
